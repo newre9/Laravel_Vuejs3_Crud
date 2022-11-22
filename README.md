@@ -5,7 +5,7 @@
 # install mysql workbanch
 # laravel new project_fullstack
 # editing .env file 
-# php artisan migrate
+#  php artisan migrate
 # composer require laravel/breeze
 # php artisan breeze:install
 # php artisan make:model Product -m
